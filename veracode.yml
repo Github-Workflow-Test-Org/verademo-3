@@ -1,3 +1,2 @@
 veracode_static_scan:
   profile: testapp-12
-  policy: 'Veracode Recommended Medium + SCA' 
